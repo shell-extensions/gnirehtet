@@ -11,7 +11,7 @@ A GNOME Shell extension that provides a Quick Settings toggle to manage the Gnir
 
 ## Requirements
 
-- GNOME Shell (tested on GNOME 49)
+- GNOME Shell (declared compatible with GNOME 46–50)
 - Gnirehtet installed and available in PATH (see [Gnirehtet repository](https://github.com/Genymobile/gnirehtet) for installation).
 - Android device with USB debugging enabled.
 

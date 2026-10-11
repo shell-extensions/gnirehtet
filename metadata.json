@@ -3,7 +3,7 @@
   "uuid": "gnirehtet-gnome@mateusvmv",
   "name": "Gnirehtet Control",
   "description": "Toggle gnirehtet autorun from Quick Settings",
-  "shell-version": [ "49" ],
+  "shell-version": ["46", "47", "48", "49", "50"],
   "url": "https://github.com/mateusvmv/gnome-shell-extension-gnirehtet",
   "session-modes": [ "unlock-dialog", "user" ],
   "settings-schema": "org.gnome.shell.extensions.gnirehtet"
